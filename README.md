@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Nadir%20Ammi--Said-Full--Stack%20Web%20Developer-blue?style=for-the-badge&logo=react" alt="Titre">
+  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+</p>
+
 # Hello World! 👋
 
 🔭 En septembre 2024, j'ai entamé une reconversion pour devenir Développeur Full-Stack. Actuellement en formation à la **Wild Code School** de Lyon, je me spécialise dans **React, TypeScript, Node.js, Express et MySQL**.
@@ -13,13 +20,14 @@
 
 🌱 J’adore apprendre et expérimenter, notamment en **automatisation et web scraping** avec **Puppeteer**.
 
-🔎 **À la recherche d’une alternance** en tant que Développeur Full-Stack à partir de **octobre 2025** pour mon **Bachelor - Concepteur Développeur d'Application** .
+🔎 **À la recherche d’une alternance** en tant que Développeur Full-Stack à partir de **octobre 2025** pour mon **Bachelor - Concepteur Développeur d'Application**.
 
 📫 Tu veux en savoir plus ? Contacte-moi !  
-📩 nadir.ammisaid@outlook.com
-[💼 LinkedIn](https://www.linkedin.com/in/nadir-ammisaid/) | [👨‍💻 GitHub](https://github.com/nadir-ammisaid)  
+[📩 nadir.ammisaid@outlook.com](mailto:nadir.ammisaid@outlook.com) | [💼 LinkedIn](https://www.linkedin.com/in/nadir-ammisaid/) | [👨‍💻 GitHub](https://github.com/nadir-ammisaid)
 
 ⚡ Fun fact : Je suis passionné de billard 🎱, un jeu où chaque coup demande stratégie et précision… tout comme le code !
+
+---
 
 ## 📊 GitHub Stats
 
@@ -27,13 +35,52 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadir-ammisaid&layout=compact&theme=tokyonight)
 
-## 🛠️ Technologies & Tools
+---
 
-Languages : JavaScript · TypeScript · SQL
-Web Development : HTML5 · CSS3 · React · Node.js · Express · RESTful APIs
-Databases : MySQL
-Testing & CI/CD : Jest · GitHub Actions (CI/CD)
-Dev Tools : Git · GitHub · Postman · VS Code · Figma
-Automation & Scraping : Puppeteer
-Soft Skills : Autonomy · Rigor · Teamwork · Communication · Problem-solving
-Methodologies : Agile · Scrum · Code reviews · Sprints
+## 🛠️ Technologies & Outils
+
+### **Langages**  
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)](https://fr.wikipedia.org/wiki/Structured_Query_Language)
+
+### **Développement Web**  
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://fr.reactjs.org/)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/fr)
+[![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/fr/)
+[![REST API](https://img.shields.io/badge/-API%20REST-006400?style=flat-square&logo=cloudflare&logoColor=white)](https://restfulapi.net/)
+
+### **Bases de données**  
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+### **Tests & CI/CD**  
+[![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)](https://jestjs.io/)
+[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+
+### **Outils de développement**  
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nadir-ammisaid)
+[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
+[![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com/)
+
+### **Automatisation & Scraping**  
+[![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)](https://pptr.dev/)
+
+
+
+
+<!-- commented!!!
+## 🛠️ Technologies & Outils
+
+**Langages** : JavaScript · TypeScript · SQL  
+**Développement Web** : HTML5 · CSS3 · React · Node.js · Express · API REST  
+**Bases de données** : MySQL  
+**Tests & CI/CD** : Jest · GitHub Actions (CI/CD)  
+**Outils de développement** : Git · GitHub · Postman · VS Code · Figma  
+**Automatisation & Scraping** : Puppeteer  
+**Soft Skills** : Autonomie · Rigueur · Travail en équipe · Communication · Résolution de problèmes  
+**Méthodologies** : Agile · Scrum · Revues de code · Sprints
+-->
