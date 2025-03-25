@@ -26,3 +26,14 @@
 ![Nadir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadir-ammisaid&show_icons=true&theme=tokyonight&hide_title=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadir-ammisaid&layout=compact&theme=tokyonight)
+
+## 🛠️ Technologies & Tools
+
+Languages : JavaScript · TypeScript · SQL
+Web Development : HTML5 · CSS3 · React · Node.js · Express · RESTful APIs
+Databases : MySQL
+Testing & CI/CD : Jest · GitHub Actions (CI/CD)
+Dev Tools : Git · GitHub · Postman · VS Code · Figma
+Automation & Scraping : Puppeteer
+Soft Skills : Autonomy · Rigor · Teamwork · Communication · Problem-solving
+Methodologies : Agile · Scrum · Code reviews · Sprints
