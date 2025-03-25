@@ -16,6 +16,13 @@
 🔎 **À la recherche d’une alternance** en tant que Développeur Full-Stack à partir de **octobre 2025** pour mon **Bachelor - Concepteur Développeur d'Application** .
 
 📫 Tu veux en savoir plus ? Contacte-moi !  
+📩 nadir.ammisaid@outlook.com
 [💼 LinkedIn](https://www.linkedin.com/in/nadir-ammisaid/) | [👨‍💻 GitHub](https://github.com/nadir-ammisaid)  
 
 ⚡ Fun fact : Je suis passionné de billard 🎱, un jeu où chaque coup demande stratégie et précision… tout comme le code !
+
+## 📊 GitHub Stats
+
+![Nadir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadir-ammisaid&show_icons=true&theme=tokyonight&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadir-ammisaid&layout=compact&theme=tokyonight)
