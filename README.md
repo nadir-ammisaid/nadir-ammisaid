@@ -13,6 +13,7 @@
 
 🚀 Projets récents :
 - **Task Connect** : Plateforme de mise en relation entre particuliers et prestataires pour des services **-en cours-🔗 www.taskconnect.fr**
+- **Task Connect** : Plateforme de mise en relation entre particuliers et prestataires pour des services **-en cours-👉 www.taskconnect.fr**
 - **Smart Choice Hub** : Outil collaboratif avec authentification et gestion des décisions.
 - **Kebab Monsters** : App intégrant l'API Yelp pour rechercher les meilleurs kebabs.
 - **We Art** : Visualisation d’œuvres d’art à partir de l’API du Metropolitan Museum of Art.
