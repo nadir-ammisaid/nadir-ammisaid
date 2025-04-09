@@ -55,7 +55,7 @@
 ### **Bases de données**  
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-### **Tests & CI/CD**  
+### **Tests & CI/CD (connaissances)**  
 [![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)](https://jestjs.io/)
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 
@@ -66,7 +66,7 @@
 [![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com/)
 
-### **Automatisation & Scraping**  
+### **Automatisation & Scraping (en apprentissage)**  
 [![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)](https://pptr.dev/)
 
 
