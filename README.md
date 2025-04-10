@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=ad9e76&center=true&width=600&lines=Hey+there!+👋;I'm+Nadir;+Full+Stack+Web+Developer;Ready+to+build,+learn+and+grow+🚀;Passionate+about+code+💻" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=ad9e76&center=true&width=600&lines=Hello+World!+👋;I'm+Nadir;+Full+Stack+Web+Developer;Ready+to+build,+learn+and+grow+🚀;Passionate+about+code+💻" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 
-🔭 Admis à **l’IPI, l’IPSSI et SUPINFO** pour la rentrée 2025, je suis Développeur Full-Stack, spécialisé en **React, Node.js, TypeScript, Express et MySQL.**
+🔭 Admis aux écoles **IPI, IPSSI et SUPINFO** pour la rentrée 2025, je suis Développeur Full-Stack, spécialisé en **React, Node.js, TypeScript, Express et MySQL.**
 
 🔎 **À la recherche d’une alternance** en tant que Développeur Full-Stack **à partir de septembre 2025** pour mon **Bachelor - Concepteur Développeur d'Application**.
 
