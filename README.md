@@ -1,11 +1,17 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=ad9e76&center=true&width=600&lines=Hey+there!+👋;I'm+Nadir;+Full+Stack+Web+Developer;Ready+to+build,+learn+and+grow+🚀;Passionate+about+code+💻" alt="Typing SVG" />
+  </a>
+</h1>
+
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Nadir%20Ammi--Said-Full--Stack%20Web%20Developer-blue?style=for-the-badge&logo=react" alt="Titre">
   <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
-
-# Hello World! 👋
 
 🔭 En septembre 2024, j'ai entamé une reconversion pour devenir Développeur Full-Stack. Actuellement en formation à la **Wild Code School** de Lyon, je me spécialise dans **React, TypeScript, Node.js, Express et MySQL**.
 
@@ -30,10 +36,22 @@
 ---
 
 ## 📊 GitHub Stats
+<div align="center">
+  
+  ![GitHub Streak:](https://nirzak-streak-stats.vercel.app?user=nadir-ammisaid&theme=default)
+  
+</div>
 
-![Nadir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadir-ammisaid&show_icons=true&theme=tokyonight&hide_title=true)
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadir-ammisaid&show_icons=true&theme=default" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadir-ammisaid&layout=compact&theme=default" />
+  
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadir-ammisaid&layout=compact&theme=tokyonight)
+
+
 
 ---
 
@@ -69,8 +87,12 @@
 ### **Automatisation & Scraping (en apprentissage)**  
 [![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)](https://pptr.dev/)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nadir-ammisaid&color=ad9e76&style=flat-square&label=Profile+Views" alt="Profile Views">
+</p>
 
 
+-------------------
 
 <!-- commented!!!
 ## 🛠️ Technologies & Outils
@@ -83,4 +105,6 @@
 **Automatisation & Scraping** : Puppeteer  
 **Soft Skills** : Autonomie · Rigueur · Travail en équipe · Communication · Résolution de problèmes  
 **Méthodologies** : Agile · Scrum · Revues de code · Sprints
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nadir-ammisaid&theme=github-compact)
 -->
