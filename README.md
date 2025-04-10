@@ -4,8 +4,6 @@
   </a>
 </h1>
 
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/Nadir%20Ammi--Said-Full--Stack%20Web%20Developer-blue?style=for-the-badge&logo=react" alt="Titre">
   <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
@@ -13,7 +11,9 @@
   <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 
-🔭 En septembre 2024, j'ai entamé une reconversion pour devenir Développeur Full-Stack. Actuellement en formation à la **Wild Code School** de Lyon, je me spécialise dans **React, TypeScript, Node.js, Express et MySQL**.
+🔭 Admis à **l’IPI, l’IPSSI et SUPINFO** pour la rentrée 2025, je suis Développeur Full-Stack, spécialisé en **React, Node.js, TypeScript, Express et MySQL.**
+
+🔎 **À la recherche d’une alternance** en tant que Développeur Full-Stack **à partir de septembre 2025** pour mon **Bachelor - Concepteur Développeur d'Application**.
 
 💡 Fort de mon expérience en **gestion de comptes dans la santé et la finance**, je mets à profit mon esprit analytique et ma rigueur pour concevoir des applications performantes et bien structurées.
 
@@ -26,9 +26,9 @@
 
 🌱 J’adore apprendre et expérimenter, notamment en **automatisation et web scraping** avec **Puppeteer**.
 
-🔎 **À la recherche d’une alternance** en tant que Développeur Full-Stack à partir de **octobre 2025** pour mon **Bachelor - Concepteur Développeur d'Application**.
 
-📫 Tu veux en savoir plus ? Contacte-moi !  
+📫 Tu veux en savoir plus ? Contacte-moi !
+
 [📩 nadir.ammisaid@outlook.com](mailto:nadir.ammisaid@outlook.com) | [💼 LinkedIn](https://www.linkedin.com/in/nadir-ammisaid/) | [👨‍💻 GitHub](https://github.com/nadir-ammisaid)
 
 ⚡ Fun fact : Je suis passionné de billard 🎱, un jeu où chaque coup demande stratégie et précision… tout comme le code !
