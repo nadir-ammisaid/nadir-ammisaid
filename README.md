@@ -87,11 +87,6 @@
 ### **Automatisation & Scraping (en apprentissage)**  
 [![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)](https://pptr.dev/)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nadir-ammisaid&color=ad9e76&style=flat-square&label=Profile+Views" alt="Profile Views">
-</p>
-
-
 -------------------
 
 <!-- commented!!!
@@ -107,4 +102,8 @@
 **Méthodologies** : Agile · Scrum · Revues de code · Sprints
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nadir-ammisaid&theme=github-compact)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nadir-ammisaid&color=ad9e76&style=flat-square&label=Profile+Views" alt="Profile Views">
+</p>
 -->
