@@ -11,9 +11,9 @@
   <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 
-🔭 Admis aux écoles **IPI, IPSSI et SUPINFO** pour la rentrée 2025, je suis Développeur Full-Stack, spécialisé en **React, Node.js, TypeScript, Express et MySQL.**
+🔭 Admis aux écoles IPI, IPSSI, SUPINFO et **EPITECH** pour la rentrée 2025, je suis Développeur Full-Stack, spécialisé en **React, Node.js, TypeScript, Express et MySQL.**
 
-🔎 **À la recherche d’une alternance** en tant que Développeur Full-Stack **à partir de septembre 2025** pour mon **Bachelor - Concepteur Développeur d'Application**.
+🔎 Disponible **dès septembre 2025** pour une **alternance** en tant que **Développeur Full-Stack**, dans le cadre de mon **Bachelor Concepteur Développeur d'Applications**, suivi d’un **Master en deux ans**.
 
 💡 Fort de mon expérience en **gestion de comptes dans la santé et la finance**, je mets à profit mon esprit analytique et ma rigueur pour concevoir des applications performantes et bien structurées.
 
