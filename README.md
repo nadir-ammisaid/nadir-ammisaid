@@ -13,6 +13,8 @@
 
 🔭 Admis aux écoles IPI, IPSSI, SUPINFO et **EPITECH** pour la rentrée 2025, je suis Développeur Full-Stack, spécialisé en **React, Node.js, TypeScript, Express et MySQL.**
 
+🌍 Bilingue français/anglais, à l’aise dans des environnements techniques ou internationaux, à l’écrit comme à l’oral.
+
 🔎 Disponible **dès septembre 2025** pour une **alternance** en tant que **Développeur Full-Stack**, dans le cadre de mon **Bachelor Concepteur Développeur d'Applications**, suivi d’un **Master en deux ans**.
 
 💡 Fort de mon expérience en **gestion de comptes dans la santé et la finance**, je mets à profit mon esprit analytique et ma rigueur pour concevoir des applications performantes et bien structurées.
