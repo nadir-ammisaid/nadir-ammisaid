@@ -5,10 +5,10 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Nadir%20Ammi--Said-Full--Stack%20Web%20Developer-blue?style=for-the-badge&logo=react" alt="Titre">
   <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 
@@ -22,7 +22,7 @@
 
 🚀 Projets récents :
 - **Task Connect** : Plateforme de mise en relation entre particuliers et prestataires pour des services **-en cours-👉 www.taskconnect.fr**
-- **Aventurier** : Jeu interactif Java/React avec carte ASCII dynamique, déplacement du héros via API REST et logique serveur pour collisions et état du jeu.
+- **Aventurier** : Jeu interactif Java/React avec carte ASCII dynamique, déplacement via API REST et logique serveur pour collisions.
 - **Smart Choice Hub** : Outil collaboratif avec authentification et gestion des décisions.
 - **Kebab Monsters** : App intégrant l'API Yelp pour rechercher les meilleurs kebabs.
 - **We Art** : Visualisation d’œuvres d’art à partir de l’API du Metropolitan Museum of Art.
