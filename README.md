@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 
-🔭 Admis aux écoles IPI, IPSSI, SUPINFO et **EPITECH** pour la rentrée 2025, je suis Développeur Full-Stack, spécialisé en **React, Node.js, Java, TypeScript, Express et MySQL.**
+🔭 Admis aux écoles IPI, IPSSI, SUPINFO et **EPITECH** pour la rentrée 2025, je suis Développeur Full-Stack, spécialisé en **JavaScript, TypeScript** et **Java** (langages), avec une expertise en **React** (front-end) et **Node.js/Express** (back-end), ainsi qu'une bonne maîtrise de **MySQL** (base de données).
 
 🌍 Bilingue français/anglais, à l’aise dans des environnements techniques ou internationaux, à l’écrit comme à l’oral.
 
