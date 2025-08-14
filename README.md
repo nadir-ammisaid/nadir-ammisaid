@@ -35,13 +35,7 @@
 - **We Art** : Visualisation d’œuvres d’art à partir de l’API du Metropolitan Museum of Art.
 - **Flag Master** : Jeu interactif permettant d’identifier des drapeaux.
 
-- **Jeelwork** : Landing page Next.js optimisée SEO pour une future plateforme algérienne **👉 www.jeelwork.com**
-- **Jeelwork** : Landing page responsive en **Next.js** (SSG), optimisée SEO pour une plateforme algérienne de mise en relation  entre artisans et clients **👉 www.jeelwork.com**
-- **Jeelwork** : Landing page responsive en **Next.js** (SSG) optimisée pour le **SEO et les performances**, déployée pour une future plateforme algérienne de mise en relation entre artisans et clients. **👉 www.jeelwork.com**
-
-
 🌱 J’adore apprendre et expérimenter, notamment en **automatisation et web scraping** avec **Puppeteer**.
-
 
 📫 Tu veux en savoir plus ? Contacte-moi !
 
