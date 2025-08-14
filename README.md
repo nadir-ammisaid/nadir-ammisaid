@@ -28,6 +28,8 @@
 
 🚀 Projets récents :
 - **Jeelwork** : Landing page Next.js optimisée SEO pour une future plateforme algérienne **👉 www.jeelwork.com**
+- **Jeelwork** : Landing page responsive en **Next.js** (SSG), optimisée SEO pour une plateforme algérienne de mise en relation  entre artisans et clients **👉 www.jeelwork.com**
+- **Jeelwork** : Landing page responsive en **Next.js** (SSG) optimisée pour le **SEO et les performances**, déployée pour une future plateforme algérienne de mise en relation entre artisans et clients. **👉 www.jeelwork.com**
 - **Task Connect** : Plateforme de mise en relation entre particuliers et prestataires pour des services **-en cours-👉 www.taskconnect.fr**
 - **Aventurier** : Jeu interactif Java/React avec carte ASCII dynamique, déplacement via API REST et logique serveur pour collisions.
 - **Smart Choice Hub** : Outil collaboratif avec authentification et gestion des décisions.
