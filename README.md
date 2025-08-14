@@ -27,15 +27,18 @@
 💡 Fort de mon expérience en **gestion de comptes dans la santé et la finance**, je mets à profit mon esprit analytique et ma rigueur pour concevoir des applications performantes et bien structurées.
 
 🚀 Projets récents :
-- **Jeelwork** : Landing page Next.js optimisée SEO pour une future plateforme algérienne **👉 www.jeelwork.com**
-- **Jeelwork** : Landing page responsive en **Next.js** (SSG), optimisée SEO pour une plateforme algérienne de mise en relation  entre artisans et clients **👉 www.jeelwork.com**
-- **Jeelwork** : Landing page responsive en **Next.js** (SSG) optimisée pour le **SEO et les performances**, déployée pour une future plateforme algérienne de mise en relation entre artisans et clients. **👉 www.jeelwork.com**
+- **Jeelwork** : Landing page responsive - Next.js (SSG) - SEO - plateforme algérienne - mise en relation artisans / clients **👉 www.jeelwork.com**
 - **Task Connect** : Plateforme de mise en relation entre particuliers et prestataires pour des services **-en cours-👉 www.taskconnect.fr**
 - **Aventurier** : Jeu interactif Java/React avec carte ASCII dynamique, déplacement via API REST et logique serveur pour collisions.
 - **Smart Choice Hub** : Outil collaboratif avec authentification et gestion des décisions.
 - **Kebab Monsters** : App intégrant l'API Yelp pour rechercher les meilleurs kebabs.
 - **We Art** : Visualisation d’œuvres d’art à partir de l’API du Metropolitan Museum of Art.
 - **Flag Master** : Jeu interactif permettant d’identifier des drapeaux.
+
+- **Jeelwork** : Landing page Next.js optimisée SEO pour une future plateforme algérienne **👉 www.jeelwork.com**
+- **Jeelwork** : Landing page responsive en **Next.js** (SSG), optimisée SEO pour une plateforme algérienne de mise en relation  entre artisans et clients **👉 www.jeelwork.com**
+- **Jeelwork** : Landing page responsive en **Next.js** (SSG) optimisée pour le **SEO et les performances**, déployée pour une future plateforme algérienne de mise en relation entre artisans et clients. **👉 www.jeelwork.com**
+
 
 🌱 J’adore apprendre et expérimenter, notamment en **automatisation et web scraping** avec **Puppeteer**.
 
