@@ -26,8 +26,8 @@
 💡 Fort de mon expérience en **gestion de comptes dans la santé et la finance**, je mets à profit mon esprit analytique et ma rigueur pour concevoir des applications performantes et bien structurées.
 
 🚀 Projets récents :
-- **Jeelwork** : Site vitrine responsive - Next.js (SSG) - plateforme algérienne - mise en relation artisans/clients **👉 www.jeelwork.com**
-- **Task Connect** : Plateforme de mise en relation entre particuliers et prestataires pour des services **-en cours-👉 www.taskconnect.fr**
+- **Jeelwork** : Site vitrine responsive - Next.js (SSG) - plateforme algérienne - mise en relation artisans/clients 👉 **www.jeelwork.com**
+- **Task Connect** : Plateforme de mise en relation entre particuliers et prestataires pour des services -en cours-👉 **www.taskconnect.fr**
 - **Aventurier** : Jeu interactif Java/React avec carte ASCII dynamique, déplacement via API REST et logique serveur pour collisions.
 - **Smart Choice Hub** : Outil collaboratif avec authentification et gestion des décisions.
 - **Kebab Monsters** : App intégrant l'API Yelp pour rechercher les meilleurs kebabs.
@@ -40,9 +40,9 @@
 
 📩 Email : **nadir** [dot] **ammisaid** [at] **outlook** [dot] **com**
 <br/>
-💼 LinkedIn : [https://www.linkedin.com/in/nadir-ammisaid/](https://www.linkedin.com/in/nadir-ammisaid/)
+💼 LinkedIn : **[https://www.linkedin.com/in/nadir-ammisaid/](https://www.linkedin.com/in/nadir-ammisaid/)**
 <br/>
-👨‍💻 GitHub : [https://github.com/nadir-ammisaid](https://github.com/nadir-ammisaid)
+👨‍💻 GitHub : **[https://github.com/nadir-ammisaid](https://github.com/nadir-ammisaid)**
 <br/>
 
 ⚡ Fun fact : Je suis passionné de billard 🎱, un jeu où chaque coup demande stratégie et précision… tout comme le code !
