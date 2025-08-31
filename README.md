@@ -15,8 +15,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
-  
-</p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
 
 🔭 Admis aux écoles IPI, IPSSI, SUPINFO et **EPITECH** pour la rentrée 2025, je suis Développeur Full-Stack, spécialisé en **JavaScript, TypeScript** et **Java** (langages), avec une expertise en **React** (front-end), en **Node.js/Express** et **Spring Boot** (back-end), ainsi qu'une bonne maîtrise de **MySQL** (base de données).
 
@@ -39,7 +38,12 @@
 
 📫 Tu veux en savoir plus ? Contacte-moi !
 
-[📩 nadir.ammisaid@outlook.com](mailto:nadir.ammisaid@outlook.com) | [💼 LinkedIn](https://www.linkedin.com/in/nadir-ammisaid/) | [👨‍💻 GitHub](https://github.com/nadir-ammisaid)
+📩 Email : **nadir** [dot] **ammisaid** [at] **outlook** [dot] **com**
+<br/>
+💼 LinkedIn : [https://www.linkedin.com/in/nadir-ammisaid/](https://www.linkedin.com/in/nadir-ammisaid/)
+<br/>
+👨‍💻 GitHub : [https://github.com/nadir-ammisaid](https://github.com/nadir-ammisaid)
+<br/>
 
 ⚡ Fun fact : Je suis passionné de billard 🎱, un jeu où chaque coup demande stratégie et précision… tout comme le code !
 
@@ -77,6 +81,7 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://fr.reactjs.org/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/fr)
 [![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/fr/)
 [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
