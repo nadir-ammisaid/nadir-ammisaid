@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://www.linkedin.com/in/nadir-ammisaid/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=ad9e76&center=true&width=600&lines=Hello+World!+👋;I'm+Nadir;+Full+Stack+Web+Developer;Ready+to+build,+learn+and+grow+🚀;Passionate+about+code+💻" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=ad9e76&center=true&width=600&lines=Hello+World!+👋;I'm+Nadir;+Full+Stack+Web+Developer;Ready+to+build,+learn+and+grow+🚀;Passionate+about+code+💻" alt="Nadir AMMI SAID" />
   </a>
 </h1>
 
@@ -46,6 +46,10 @@
 <br/>
 
 ⚡ Fun fact : Je suis passionné de billard 🎱, un jeu où chaque coup demande stratégie et précision… tout comme le code !
+
+<br/>
+
+<sub><sub>Nadir AMMI SAID</sub></sub>
 
 ---
 
@@ -104,6 +108,11 @@
 
 ### **Automatisation & Scraping (en apprentissage)**  
 [![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)](https://pptr.dev/)
+
+
+<br/>
+<img src="https://img.shields.io/badge/Nadir%20AMMI%20SAID-white?style=flat-square&labelColor=000000&color=ffffff" alt="Nadir AMMI SAID">
+
 
 -------------------
 
