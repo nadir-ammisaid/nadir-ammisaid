@@ -17,11 +17,11 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
 
-🔭 Admis aux écoles IPI, IPSSI, SUPINFO et **EPITECH** pour la rentrée 2025, je suis Développeur Full-Stack, spécialisé en **JavaScript, TypeScript** et **Java** (langages), avec une expertise en **React** (front-end), en **Node.js/Express** et **Spring Boot** (back-end), ainsi qu'une bonne maîtrise de **MySQL** (base de données).
+👨‍💻 Développeur Full-Stack spécialisé en **JavaScript/TypeScript** avec **React** pour le front-end, et en **Node.js, Express** et **Java (Spring Boot)** pour le back-end, le tout adossé à une base de données **MySQL**. Avec une expérience sur des projets web et mobile concrets, je conçois des applications qui allient utilité, performance et clarté d’architecture.
+
+🔭 Actuellement engagé dans un **Master** en **Architecture des Systèmes d’Information (3 ans)** à **Epitech**, je rejoindrai **le groupe international Worldline** en janvier 2026 pour mon alternance en tant que **Développeur Full-Stack**.
 
 🌍 Bilingue français/anglais, à l’aise dans des environnements techniques ou internationaux, à l’écrit comme à l’oral.
-
-🔎 Disponible **dès septembre 2025** pour une **alternance** en tant que **Développeur Full-Stack**, dans le cadre de mon **Bachelor Concepteur Développeur d'Applications**, suivi d’un **Master en deux ans**.
 
 💡 Fort de mon expérience en **gestion de comptes dans la santé et la finance**, je mets à profit mon esprit analytique et ma rigueur pour concevoir des applications performantes et bien structurées.
 
@@ -34,7 +34,9 @@
 - **We Art** : Visualisation d’œuvres d’art à partir de l’API du Metropolitan Museum of Art.
 - **Flag Master** : Jeu interactif permettant d’identifier des drapeaux.
 
-🌱 J’adore apprendre et expérimenter, notamment en **automatisation et web scraping** avec **Puppeteer**.
+💻 Je contribue également à des projets **open-source**, afin de partager mes compétences et collaborer avec la communauté.
+
+🌱 J’adore apprendre et expérimenter, notamment en **automatisation** et **web scraping** avec **Puppeteer**.
 
 📫 Tu veux en savoir plus ? Contacte-moi !
 
@@ -115,6 +117,14 @@
 
 
 -------------------
+
+<!-- commented!!!
+🔭 Admis aux écoles IPI, IPSSI, SUPINFO et **EPITECH** pour la rentrée 2025, je suis Développeur Full-Stack, spécialisé en **JavaScript, TypeScript** et **Java** (langages), avec une expertise en **React** (front-end), en **Node.js/Express** et **Spring Boot** (back-end), ainsi qu'une bonne maîtrise de **MySQL** (base de données).
+
+🔎 Disponible **dès septembre 2025** pour une **alternance** en tant que **Développeur Full-Stack**, dans le cadre de mon **Bachelor Concepteur Développeur d'Applications**, suivi d’un **Master en deux ans**.
+-->
+
+
 
 <!-- commented!!!
 ## 🛠️ Technologies & Outils
