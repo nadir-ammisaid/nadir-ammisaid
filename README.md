@@ -122,6 +122,9 @@
 🔭 Admis aux écoles IPI, IPSSI, SUPINFO et **EPITECH** pour la rentrée 2025, je suis Développeur Full-Stack, spécialisé en **JavaScript, TypeScript** et **Java** (langages), avec une expertise en **React** (front-end), en **Node.js/Express** et **Spring Boot** (back-end), ainsi qu'une bonne maîtrise de **MySQL** (base de données).
 
 🔎 Disponible **dès septembre 2025** pour une **alternance** en tant que **Développeur Full-Stack**, dans le cadre de mon **Bachelor Concepteur Développeur d'Applications**, suivi d’un **Master en deux ans**.
+
+<sub><sub>Nadir AMMI SAID</sub></sub>
+
 -->
 
 
