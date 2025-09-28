@@ -96,7 +96,7 @@
 ### **Bases de données**  
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-### **Tests & CI/CD (en cours d’approfondissement)**  
+### **Tests & CI/CD (en apprentissage)**  
 [![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)](https://jestjs.io/)
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 
