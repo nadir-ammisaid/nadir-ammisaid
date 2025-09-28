@@ -130,7 +130,7 @@
 
 
 <!-- commented!!! 
-## 🛠️ Technologies & Outils
+## 🛠️ Technologies & Outils 
 
 **Langages** : Java · JavaScript · TypeScript · SQL  
 **Développement Web** : HTML5 · CSS3 · React · Node.js · Express · Spring Boot · API REST  
