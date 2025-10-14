@@ -28,7 +28,7 @@
 🚀 Projets récents :
 - **Jeelwork** : Site vitrine responsive - Next.js (SSG) -mise en relation artisans/clients 🔗**www.jeelwork.com**
 - **Task Connect** : Plateforme de mise en relation entre particuliers et prestataires pour des services 🔗**www.taskconnect.fr**
-- **Aventurier** : Jeu interactif Java/React avec carte ASCII dynamique, déplacement via API REST et logique serveur pour collisions.
+- **Aventurier** : Jeu interactif Java/React avec carte ASCII dynamique, déplacements via API REST et logique serveur.
 - **Smart Choice Hub** : Outil collaboratif avec authentification et gestion des décisions.
 - **Kebab Monsters** : App intégrant l'API Yelp pour rechercher les meilleurs kebabs.
 - **We Art** : Visualisation d’œuvres d’art à partir de l’API du Metropolitan Museum of Art.
