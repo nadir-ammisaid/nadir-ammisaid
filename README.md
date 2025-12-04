@@ -39,13 +39,13 @@
 
 🌱 J’adore apprendre et expérimenter, notamment en **automatisation** et **web scraping** avec **Puppeteer**.
 
-📫 Tu veux en savoir plus ? Contacte-moi !
+Tu veux en savoir plus ? Contacte-moi !
 
-📩 Email : **nadir** [dot] **ammisaid** [at] **outlook** [dot] **com**
+   Email : **nadir** [dot] **ammisaid** [at] **outlook** [dot] **com**
 <br/>
-💼 LinkedIn : **[linkedin.com/in/nadir-ammisaid/](https://www.linkedin.com/in/nadir-ammisaid/)**
+   LinkedIn : **[linkedin.com/in/nadir-ammisaid/](https://www.linkedin.com/in/nadir-ammisaid/)**
 <br/>
-👨‍💻 GitHub : **[github.com/nadir-ammisaid](https://github.com/nadir-ammisaid)**
+   GitHub : **[github.com/nadir-ammisaid](https://github.com/nadir-ammisaid)**
 <br/>
 
 ⚡ Fun fact : Je suis passionné de billard 🎱, un jeu où chaque coup demande stratégie et précision… tout comme le code !
