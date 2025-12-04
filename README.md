@@ -26,7 +26,7 @@
 💡 Fort de mon expérience en **gestion de comptes dans la santé et la finance**, je mets à profit mon esprit analytique et ma rigueur pour concevoir des applications performantes et bien structurées.
 
    **Projets** récents :
-- **My Portfolio** : Portfolio moderne avec Next.js, pages dynamiques, dark mode, reCAPTCHA et EmailJS intégrés 🔗 **[portfolio-nad.vercel.app](https://portfolio-nad.vercel.app)**
+- **My Portfolio** : Site moderne Next.js avec pages dynamiques, dark mode, reCAPTCHA et EmailJS intégrés. 🔗 **[portfolio-nad.vercel.app](https://portfolio-nad.vercel.app)**
 - **Jeelwork** : Site vitrine responsive - Next.js (SSG) -mise en relation artisans/clients 🔗 **[jeelwork.com](https://jeelwork.vercel.app)**
 - **Task Connect** : Plateforme de mise en relation entre particuliers et prestataires pour des services 🔗 **[taskconnect.fr](https://taskconnect.fr)**
 - **Aventurier** : Jeu interactif Java/React avec carte ASCII dynamique, déplacements via API REST et logique serveur.
