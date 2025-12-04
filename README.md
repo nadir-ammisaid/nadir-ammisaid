@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://www.linkedin.com/in/nadir-ammisaid/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=ad9e76&center=true&width=600&lines=Hello+World!+👋;I'm+Nadir;+Full+Stack+Web+Developer;Ready+to+build,+learn+and+grow+🚀;Passionate+about+code+💻" alt="Nadir AMMI SAID" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=ad9e76&center=true&width=600&lines=Hello+World!+👋;I'm+Nadir;+Full+Stack+Web+Developer;Ready+to+build,+learn+and+grow+;Passionate+about+code+💻" alt="Nadir AMMI SAID" />
   </a>
 </h1>
 
@@ -25,7 +25,7 @@
 
 💡 Fort de mon expérience en **gestion de comptes dans la santé et la finance**, je mets à profit mon esprit analytique et ma rigueur pour concevoir des applications performantes et bien structurées.
 
-🚀 Projets récents :
+   **Projets** récents :
 - **My Portfolio** : Portfolio moderne avec Next.js, pages dynamiques, dark mode, reCAPTCHA et EmailJS intégrés 🔗**www.portfolio-nad.vercel.app**
 - **Jeelwork** : Site vitrine responsive - Next.js (SSG) -mise en relation artisans/clients 🔗**www.jeelwork.com**
 - **Task Connect** : Plateforme de mise en relation entre particuliers et prestataires pour des services 🔗**www.taskconnect.fr**
