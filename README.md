@@ -26,18 +26,22 @@
 💡 Fort de mon expérience en **gestion de comptes dans la santé et la finance**, je mets à profit mon esprit analytique et ma rigueur pour concevoir des applications performantes et bien structurées.
 
    **Projets** récents :
-- **My Portfolio** : Portfolio moderne avec Next.js, pages dynamiques, dark mode, reCAPTCHA et EmailJS intégrés 🔗**www.portfolio-nad.vercel.app**
-- **Jeelwork** : Site vitrine responsive - Next.js (SSG) -mise en relation artisans/clients 🔗**www.jeelwork.vercel.app**
-- **Task Connect** : Plateforme de mise en relation entre particuliers et prestataires pour des services 🔗**www.taskconnect.fr**
+- **My Portfolio** : Portfolio moderne avec Next.js, pages dynamiques, dark mode, reCAPTCHA et EmailJS intégrés 🔗 **[portfolio-nad.vercel.app](https://portfolio-nad.vercel.app)**
+- **Jeelwork** : Site vitrine responsive - Next.js (SSG) -mise en relation artisans/clients 🔗 **[jeelwork.com](https://jeelwork.vercel.app)**
+- **Task Connect** : Plateforme de mise en relation entre particuliers et prestataires pour des services 🔗 **[taskconnect.fr](https://taskconnect.fr)**
 - **Aventurier** : Jeu interactif Java/React avec carte ASCII dynamique, déplacements via API REST et logique serveur.
-- **Smart Choice Hub** : Outil collaboratif avec authentification et gestion des décisions.
-- **Kebab Monsters** : App intégrant l'API Yelp pour rechercher les meilleurs kebabs. 🔗**www.kebab-monsters.vercel.app**
+- **Smart Choice Hub** : Outil collaboratif avec authentification et gestion des décisions 🔗 **[smartchoicehub.fr](https://smartchoicehub.vercel.app)**
+- **Kebab Monsters** : App intégrant l'API Yelp pour rechercher les meilleurs kebabs.
 - **We Art** : Visualisation d’œuvres d’art à partir de l’API du Metropolitan Museum of Art.
-- **Flag Master** : Jeu interactif permettant d’identifier des drapeaux.
+- **Flag Master** : Jeu interactif permettant d’identifier des drapeaux 🔗 **[flagmaster.com](https://flag-master-nad.vercel.app)**
+
+<br/>
 
 💻 Je contribue également à des projets **open-source**, afin de partager mes compétences et collaborer avec la communauté.
 
 🌱 J’adore apprendre et expérimenter, notamment en **automatisation** et **web scraping** avec **Puppeteer**.
+
+<br/>
 
 Tu veux en savoir plus ? Contacte-moi !
 
@@ -46,6 +50,8 @@ Tu veux en savoir plus ? Contacte-moi !
    LinkedIn : **[linkedin.com/in/nadir-ammisaid/](https://www.linkedin.com/in/nadir-ammisaid/)**
 <br/>
    GitHub : **[github.com/nadir-ammisaid](https://github.com/nadir-ammisaid)**
+<br/>
+   Portfolio : **[portfolio-nad.com](https://portfolio-nad.vercel.app)**
 <br/>
 
 ⚡ Fun fact : Je suis passionné de billard 🎱, un jeu où chaque coup demande stratégie et précision… tout comme le code !
