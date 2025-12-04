@@ -27,11 +27,11 @@
 
    **Projets** récents :
 - **My Portfolio** : Portfolio moderne avec Next.js, pages dynamiques, dark mode, reCAPTCHA et EmailJS intégrés 🔗**www.portfolio-nad.vercel.app**
-- **Jeelwork** : Site vitrine responsive - Next.js (SSG) -mise en relation artisans/clients 🔗**www.jeelwork.com**
+- **Jeelwork** : Site vitrine responsive - Next.js (SSG) -mise en relation artisans/clients 🔗**www.jeelwork.vercel.app**
 - **Task Connect** : Plateforme de mise en relation entre particuliers et prestataires pour des services 🔗**www.taskconnect.fr**
 - **Aventurier** : Jeu interactif Java/React avec carte ASCII dynamique, déplacements via API REST et logique serveur.
 - **Smart Choice Hub** : Outil collaboratif avec authentification et gestion des décisions.
-- **Kebab Monsters** : App intégrant l'API Yelp pour rechercher les meilleurs kebabs.
+- **Kebab Monsters** : App intégrant l'API Yelp pour rechercher les meilleurs kebabs. 🔗**www.kebab-monsters.vercel.app**
 - **We Art** : Visualisation d’œuvres d’art à partir de l’API du Metropolitan Museum of Art.
 - **Flag Master** : Jeu interactif permettant d’identifier des drapeaux.
 
