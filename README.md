@@ -31,7 +31,7 @@
 - **Task Connect** : Plateforme de mise en relation entre particuliers et prestataires pour des services 🔗 **[taskconnect.fr](https://taskconnect.fr)**
 - **Aventurier** : Jeu interactif Java/React avec carte ASCII dynamique, déplacements via API REST et logique serveur.
 - **Smart Choice Hub** : Outil collaboratif avec authentification et gestion des décisions 🔗 **[smartchoicehub.fr](https://smartchoicehub.vercel.app)**
-- **Kebab Monsters** : App intégrant l'API Yelp pour rechercher les meilleurs kebabs.
+- **Kebab Monsters** : App intégrant l'API Yelp pour rechercher les meilleurs kebabs 🔗 **[kebab-monsters.fr](https://kebab-monsters.vercel.app/)**
 - **We Art** : Visualisation d’œuvres d’art à partir de l’API du Metropolitan Museum of Art.
 - **Flag Master** : Jeu interactif permettant d’identifier des drapeaux 🔗 **[flagmaster.com](https://flag-master-nad.vercel.app)**
 
