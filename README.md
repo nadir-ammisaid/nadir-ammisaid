@@ -30,14 +30,14 @@
    **Projets** récents :
 - **My Portfolio** : Site moderne en Next.js avec dark mode, reCAPTCHA et EmailJS intégrés. 🔗 **[portfolio-nad.vercel.app](https://portfolio-nad.vercel.app)**
 - **Jeelwork** : Site vitrine responsive - Next.js (SSG) -mise en relation artisans/clients 🔗 **[jeelwork.com](https://jeelwork.vercel.app)**
-- **1, 2, Job** : Job board full-stack pour candidats et entreprises (JWT, rôles, dashboard admin) 🔗 **[1-2-job.vercel.app](https://1-2-job.vercel.app/)**
+- **1, 2, Job** : Job board full-stack pour candidats et entreprises (JWT, rôles, dashboard admin) 🔗 **[1-2-job.fr](https://1-2-job.vercel.app/)**
 - **Trouble in Heaven** : Jeu 2D Java (LibGDX) inspiré de *Vampire Survivors*, centré sur une architecture OOP propre.
 - **Task Connect** : Plateforme de mise en relation entre particuliers et prestataires pour des services 🔗 **[taskconnect.fr](https://taskconnect.fr)**
-- **Aventurier** : Jeu interactif Java/React avec carte ASCII dynamique, déplacements via API REST et logique serveur.
+- **Aventurier** : Jeu interactif Java/React avec carte ASCII dynamique, déplacements via API REST et logique serveur 🔗 **[aventurier.fr](https://aventurier-nad.vercel.app)**
 - **Smart Choice Hub** : Outil collaboratif avec authentification et gestion des décisions 🔗 **[smartchoicehub.fr](https://smartchoicehub.vercel.app)**
 - **Kebab Monsters** : App intégrant l'API Yelp pour rechercher les meilleurs kebabs 🔗 **[kebab-monsters.fr](https://kebab-monsters.vercel.app/)**
 - **We Art** : Visualisation d’œuvres d’art à partir de l’API du Metropolitan Museum of Art 🔗 **[we-art.fr](https://we-art-nad.vercel.app/)**
-- **Flag Master** : Jeu interactif permettant d’identifier des drapeaux 🔗 **[flagmaster.fr](https://flag-master-nad.vercel.app)**
+- **Flag Master** : Jeu interactif permettant d’identifier des drapeaux 🔗 **[flag-master.fr](https://flag-master-nad.vercel.app)**
 
 <br/>
 
