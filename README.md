@@ -41,7 +41,13 @@
 
 <br/>
 
-💻 Je contribue également à des projets **open-source**, afin de partager mes compétences et collaborer avec la communauté.
+💻 Je contribue activement à des projets **open-source**, notamment :
+
+- **ComidaEmergencia** (Open Source – AGPL-3) : Application web destinée à la gestion de ressources essentielles en situation d’urgence.  
+  J’y ai contribué sur des **correctifs UI/UX critiques** (contrastes, composants, feedback utilisateur), l’**ajout de fonctionnalités** côté interface, la **refactorisation de la logique d’authentification**, ainsi que sur la **qualité logicielle** via l’écriture de **tests unitaires**, l’amélioration de la **documentation** et le respect des **standards de contribution open-source**.  
+  Stack : React 19, Vite, Tailwind CSS, Zustand, Firebase, Vitest.  
+  🔗 **[github.com/Ariel-GonzAguer/comidaEmergencia](https://github.com/Ariel-GonzAguer/comidaEmergencia)**
+
 
 🌱 J’adore apprendre et expérimenter, notamment en **automatisation** et **web scraping** avec **Puppeteer**.
 
