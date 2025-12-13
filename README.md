@@ -28,7 +28,7 @@
    **Projets** récents :
 - **My Portfolio** : Site moderne en Next.js avec dark mode, reCAPTCHA et EmailJS intégrés. 🔗 **[portfolio-nad.vercel.app](https://portfolio-nad.vercel.app)**
 - **Jeelwork** : Site vitrine responsive - Next.js (SSG) -mise en relation artisans/clients 🔗 **[jeelwork.com](https://jeelwork.vercel.app)**
-- - **1, 2, Job** : Job board full-stack permettant aux candidats de postuler et aux entreprises de gérer leurs recrutements (authentification JWT, rôles, dashboard admin) 🔗 **[1-2-job.vercel.app](https://1-2-job.vercel.app/)**
+- **1, 2, Job** : Job board full-stack permettant aux candidats de postuler et aux entreprises de gérer leurs recrutements (authentification JWT, rôles, dashboard admin) 🔗 **[1-2-job.vercel.app](https://1-2-job.vercel.app/)**
 - **Trouble in Heaven** : Jeu 2D Java inspiré de *Vampire Survivors*, développé avec LibGDX, axé sur une architecture OOP propre et des systèmes de gameplay modulaires.
 - **Task Connect** : Plateforme de mise en relation entre particuliers et prestataires pour des services 🔗 **[taskconnect.fr](https://taskconnect.fr)**
 - **Aventurier** : Jeu interactif Java/React avec carte ASCII dynamique, déplacements via API REST et logique serveur.
