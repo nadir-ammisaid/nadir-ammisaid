@@ -5,7 +5,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nadir%20Ammi--Said-Full--Stack%20Web%20Developer-blue?style=for-the-badge&logo=react" alt="Titre">
+  <a href="https://www.linkedin.com/in/nadir-ammisaid/">
+    <img src="https://img.shields.io/badge/Nadir%20Ammi--Said-Full--Stack%20Web%20Developer-blue?style=for-the-badge&logo=react" alt="Titre">
+  </a>
 </p>
 
 <p align="center">
