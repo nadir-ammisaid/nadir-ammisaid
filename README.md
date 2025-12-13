@@ -1,11 +1,11 @@
 <h1 align="center">
-  <a href="https://www.linkedin.com/in/nadir-ammisaid/">
+  <a href="https://www.linkedin.com/in/nadir-ammisaid/" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=ad9e76&center=true&width=600&lines=Hello+World!+👋;I'm+Nadir;+Full+Stack+Web+Developer;Ready+to+build,+learn+and+grow+;Passionate+about+code+💻" alt="Nadir AMMI SAID" />
   </a>
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nadir-ammisaid/">
+  <a href="https://www.linkedin.com/in/nadir-ammisaid/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Nadir%20Ammi--Said-Full--Stack%20Web%20Developer-blue?style=for-the-badge&logo=react" alt="Titre">
   </a>
 </p>
