@@ -28,7 +28,7 @@
 💡 Fort de mon expérience en **gestion de comptes dans la santé et la finance**, je mets à profit mon esprit analytique et ma rigueur pour concevoir des applications performantes et bien structurées.
 
    **Projets** récents :
-- **My Portfolio** : Site moderne en Next.js avec dark mode, reCAPTCHA et EmailJS intégrés. 🔗 **[portfolio-nad.vercel.app](https://portfolio-nad.vercel.app)**
+- **My Portfolio** : Site moderne en Next.js avec dark mode, reCAPTCHA et EmailJS intégrés. 🔗 **[nadir-ammisaid.dev](https://nadir-ammisaid.dev)**
 - **Jeelwork** : Site vitrine responsive - Next.js (SSG) -mise en relation artisans/clients 🔗 **[jeelwork.com](https://jeelwork.vercel.app)**
 - **1, 2, Job** : Job board full-stack pour candidats et entreprises (JWT, rôles, dashboard admin) 🔗 **[1-2-job.fr](https://1-2-job.vercel.app/)**
 - **Trouble in Heaven** : Jeu 2D Java (LibGDX) inspiré de *Vampire Survivors*, centré sur une architecture OOP propre.
