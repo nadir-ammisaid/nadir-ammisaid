@@ -75,6 +75,25 @@ Tu veux en savoir plus ? Contacte-moi !
 
 ## 📊 GitHub Stats
 <div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=nadir-ammisaid&theme=default&hide_border=false" alt="GitHub Streak" />
+  </a>
+</div>
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadir-ammisaid&show_icons=true&theme=default" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadir-ammisaid&layout=compact&theme=default" />
+  
+</div>
+
+
+<!-- commented
+
+old version :
+
+<div align="center">
   
   ![GitHub Streak:](https://nirzak-streak-stats.vercel.app?user=nadir-ammisaid&theme=default)
   
@@ -89,8 +108,39 @@ Tu veux en savoir plus ? Contacte-moi !
 </div>
 
 
+Test 1 :
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=nadir-ammisaid&theme=default&hide_border=false" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadir-ammisaid&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadir-ammisaid&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
+
+</div>
 
 
+test 2 :
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=nadir-ammisaid&theme=default&hide_border=false" alt="GitHub Streak" />
+  </a>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadir-ammisaid&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadir-ammisaid&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
+</div>
+
+--->
 ---
 
 ## 🛠️ Technologies & Outils
