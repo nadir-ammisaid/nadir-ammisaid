@@ -29,6 +29,7 @@
 
    **Projets** récents :
 - **My Portfolio** : Site moderne en Next.js avec dark mode, reCAPTCHA et EmailJS intégrés. 🔗 **[nadir-ammisaid.dev](https://nadir-ammisaid.dev)**
+- **EPICHAT** : Chat temps réel type Discord, web & desktop, avec DM, modération et CI/CD Docker. 🔗 **[epichat.fr](https://epichat-connect.vercel.app/)**
 - **Jeelwork** : Site vitrine responsive - Next.js (SSG) -mise en relation artisans/clients 🔗 **[jeelwork.com](https://jeelwork.vercel.app)**
 - **1, 2, Job** : Job board full-stack pour candidats et entreprises (JWT, rôles, dashboard admin) 🔗 **[1-2-job.fr](https://1-2-job.vercel.app/)**
 - **Trouble in Heaven** : Jeu 2D Java (LibGDX) inspiré de *Vampire Survivors*, centré sur une architecture OOP propre.
